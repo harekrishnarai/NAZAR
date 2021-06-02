@@ -86,7 +86,7 @@ apt-get update -y
 apt-get upgrade -y
 pkg install nodejs -y
 pkg install git -y
-git clone 
+git clone https://github.com/H-MR-STRANGER/NAZAR
 cd $HOME
 ls
 cd NAZAR
