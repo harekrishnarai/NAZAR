@@ -39,7 +39,7 @@
 
 ## ABOUT TOOL :
 
-NAZARi is an information collection tool (OSINT) which aims to carry out Basic Information. It provides various modules that allow efficient searches. NAZAR does not require an API key or login ID.
+NAZAR is an information collection tool (OSINT) which aims to carry out Basic Information. It provides various modules that allow efficient searches. NAZAR does not require an API key or login ID.
 
 
 ## AVAILABLE ON :
