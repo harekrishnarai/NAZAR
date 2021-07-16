@@ -20,6 +20,9 @@
 <a href=""><img title="GitHub" src="https://img.shields.io/badge/GitHub-MR. STRANGER-red?style=for-the-badge&logo=github"></a>
 </p>
 
+<p align="center">
+<a href=""><img title="Credit" src="https://img.shields.io/badge/CREDIT%20BY-TORPEDO-green"></a>
+</p>
 
 
 <p align="center">
@@ -39,7 +42,7 @@
 
 ## ABOUT TOOL :
 
-NAZAR is an information collection tool (OSINT) which aims to carry out Basic Information. It provides various modules that allow efficient searches. NAZAR does not require an API key or login ID.
+NAZARi is an information collection tool (OSINT) which aims to carry out Basic Information. It provides various modules that allow efficient searches. NAZAR does not require an API key or login ID.
 
 
 ## AVAILABLE ON :
@@ -86,7 +89,7 @@ apt-get update -y
 apt-get upgrade -y
 pkg install nodejs -y
 pkg install git -y
-git clone https://github.com/H-MR-STRANGER/NAZAR
+git clone 
 cd $HOME
 ls
 cd NAZAR
@@ -160,6 +163,7 @@ Select Your Option :
 
 ## CONNECT WITH US :
 
+
 <a href="#"><img title="Github" src="https://img.shields.io/badge/Github-MR.STRANGER-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_stranger_h_)
 [![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=twitter)](https://twitter.com/MRSTRAN15789244?s=20)
@@ -169,3 +173,4 @@ Select Your Option :
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 ©MR.STRANGER
 MADE IN INDIA
+A
