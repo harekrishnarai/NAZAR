@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<a href=""><img title="Credit" src="https://img.shields.io/badge/CREDIT%20BY-TORPEDO-green"></a>
+<a href=""><img title="Credit" src="https://img.shields.io/badge/PRODUCED%20BY-ANSHAJ AND PRATEEK-orange"></a>
 </p>
 
 
